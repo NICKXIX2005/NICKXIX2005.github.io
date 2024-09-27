@@ -1,0 +1,71 @@
+{
+    "titulo_pagina": "Laptops",
+    "datos_tienda": {
+        "nombre": "Tienda de Computadores",
+        "direccion": "Calle 123 # 45-67",
+        "telefono": "1234567",
+        "correo": "tiendacomputadores@mitienda.com"
+    },
+    "computadores": [
+        {
+            "nombre": "Laptop Lenovo IdeaPad 3",
+            "descripcion": "Laptop con procesador Intel Core i5, 8GB de RAM y 512GB SSD.",
+            "precio": 749.99,
+            "imagen": "https://via.placeholder.com/150"
+        },
+        {
+            "nombre": "MacBook Air M1",
+            "descripcion": "Laptop de Apple con chip M1, 8GB de RAM y 256GB SSD.",
+            "precio": 999.99,
+            "imagen": "https://via.placeholder.com/150"
+        },
+        {
+            "nombre": "HP Pavilion Gaming",
+            "descripcion": "Laptop gaming con Intel Core i7, 16GB de RAM y 1TB SSD.",
+            "precio": 1299.99,
+            "imagen": "https://via.placeholder.com/150"
+        },
+        {
+            "nombre": "Dell XPS 13",
+            "descripcion": "Ultrabook con Intel Core i7, 16GB de RAM y 512GB SSD.",
+            "precio": 1199.99,
+            "imagen": "https://via.placeholder.com/150"
+        },
+        {
+            "nombre": "ASUS ROG Zephyrus G14",
+            "descripcion": "Laptop gaming con AMD Ryzen 9, 16GB de RAM y 1TB SSD.",
+            "precio": 1399.99,
+            "imagen": "https://via.placeholder.com/150"
+        },
+        {
+            "nombre": "Acer Aspire 5",
+            "descripcion": "Laptop con procesador AMD Ryzen 5, 8GB de RAM y 256GB SSD.",
+            "precio": 549.99,
+            "imagen": "https://via.placeholder.com/150"
+        },
+        {
+            "nombre": "MSI GF65 Thin",
+            "descripcion": "Laptop gaming con Intel Core i5, 8GB de RAM y 512GB SSD.",
+            "precio": 899.99,
+            "imagen": "https://via.placeholder.com/150"
+        },
+        {
+            "nombre": "Microsoft Surface Laptop 4",
+            "descripcion": "Laptop con procesador Intel Core i5, 8GB de RAM y 512GB SSD.",
+            "precio": 999.99,
+            "imagen": "https://via.placeholder.com/150"
+        },
+        {
+            "nombre": "Razer Blade 15",
+            "descripcion": "Laptop gaming con Intel Core i7, 16GB de RAM y 1TB SSD.",
+            "precio": 1999.99,
+            "imagen": "https://via.placeholder.com/150"
+        },
+        {
+            "nombre": "Gigabyte AORUS 15G",
+            "descripcion": "Laptop gaming con Intel Core i7, 32GB de RAM y 1TB SSD.",
+            "precio": 2199.99,
+            "imagen": "https://via.placeholder.com/150"
+        }
+    ]
+}
